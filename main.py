@@ -52,9 +52,12 @@ class LabelingApp:
         if self.editing_mode:
             self.save_button = tk.Button(button_frame, text="Save Labels", command=self.save_labels)
             self.save_button.grid(row=0, column=4, padx=5)   
-            self.canvas.bind("<Button-1>", self.add_label)
-            self.canvas.bind("<B1-Motion>", self.drag_label)
-            self.canvas.bind("<ButtonRelease-1>", self.stop_drag_label)
+            self.canvas.bind("<ButtonPress-1>", self.add_label)
+            self.canvas.bind("<a>", self.simulate_click)
+            self.canvas.bind("<d>", self.debug_info)
+            self.canvas.bind("<r>", self.refresh_state)
+            # self.canvas.bind("<B1-Motion>", self.drag_label)
+            # self.canvas.bind("<ButtonRelease-1>", self.stop_drag_label)
             
         self.canvas.bind("<Motion>", self.on_mouse_move) 
         self.root.bind("<Configure>", self.on_resize)
@@ -68,7 +71,28 @@ class LabelingApp:
         self.root.bind("<q>", lambda event: self.quit_app())
         
         self.load_image()    
+
+    def refresh_state(self, event=None):
+        self.draw_image()
+
+    def debug_info(self, event=None):
+        print(f"Focus is currently on: {self.canvas.focus_get()}") 
         
+    def simulate_click(self, event=None):
+        # Get mouse coordinates relative to the canvas
+        x = self.canvas.winfo_pointerx() - self.canvas.winfo_rootx()
+        y = self.canvas.winfo_pointery() - self.canvas.winfo_rooty()
+ 
+        print(f"Simulating click at ({x}, {y})")
+        # Manually create an event object with these coordinates
+        class Event:
+            def __init__(self, x, y):
+                self.x = x
+                self.y = y
+
+        synthetic_event = Event(x, y)
+        self.add_label(synthetic_event)
+
 
     def load_image(self):
         """Load the current image and its labels."""
@@ -183,11 +207,12 @@ class LabelingApp:
                 if label_text:  # If a new label text was entered
                     # Update the existing label with new text
                     self.labels[i] = (label_x, label_y, label_text)
-                    print(f"Updated label {i + 1} at {label_x}, {label_y} with new text.")
+                    print(f"  Updated label {i + 1} at {label_x}, {label_y} with new text.")
                 return  # Exit the function to avoid adding a new label
 
         # If no existing label was found, create a new one
         label_text = self.open_text_input_dialog()
+        print(f"text obtained")
         if label_text:
             # Store the original coordinates before scaling
             original_x = int(event.x / self.scale_factor)
@@ -195,11 +220,12 @@ class LabelingApp:
 
             # Store the new label coordinates and text
             self.labels.append((original_x, original_y, label_text))
-            print(f"Created label {len(self.labels)} at {original_x}, {original_y}")
+            print(f"  Created label {len(self.labels)} at {original_x}, {original_y}")
 
             # Display the point immediately on the canvas
             self.canvas.create_oval(event.x - 3, event.y - 3, event.x + 3, event.y + 3, fill="red", tags="label_point")
-
+        else:
+            print(f"  Cancelled label creatioon.")
             
     def next_image(self):
         """Go to the next image."""
@@ -227,7 +253,7 @@ class LabelingApp:
         dialog.update_idletasks()
         dialog.wait_visibility()
         dialog.grab_set()  # Make this dialog modal
-
+        print("dialog grabbed")
         # Add a label for user instructions
         label = tk.Label(dialog, text="Enter label text:")
         label.pack(padx=10, pady=5)
@@ -246,6 +272,9 @@ class LabelingApp:
             result.append(text_entry.get("1.0", "end-1c"))  # Get all text except the trailing newline
             dialog.grab_release()  # Release grab before destroying the dialog
             dialog.destroy()
+            print(f"dialog destroyed")
+            # self.root.focus_set()
+         
 
         # OK button
         ok_button = tk.Button(dialog, text="OK (Alt+Enter)", command=save_and_close)
@@ -258,6 +287,14 @@ class LabelingApp:
         # Wait for the dialog to close
         self.root.wait_window(dialog)
 
+        self.canvas.focus_set()
+        print(f"Focus after dialog: {self.root.focus_get()}")
+        self.root.update_idletasks()
+        self.root.update()
+        print(f"root updated")
+        # self.draw_image()
+        # doesn't seem to help
+        
         # Return the result text
         return result[0] if result else None
 
@@ -266,8 +303,9 @@ class LabelingApp:
         hover_found = False
 
         # no need to display if dragging
-        if self.dragging_point is not None:
-            return
+        # if self.dragging_point is not None:
+        #    return
+        self.canvas.delete("hover")
 
         # Check if the mouse is near any labeled point (scaled to the resized image)
         for original_x, original_y, text in self.labels:
@@ -277,7 +315,7 @@ class LabelingApp:
                 hover_found = True
 
                 # Remove any existing hover display
-                self.canvas.delete("hover")
+                
 
                 # Add background rectangle with padding
                 padding = 5
@@ -331,6 +369,7 @@ class LabelingApp:
                                                       font=("Arial", 10), width=250)
  
         if not hover_found:
+            # if we moved out of the zone, we should delete the hover.
             self.canvas.delete("hover")
 
     # def select_folder(self):
@@ -345,22 +384,22 @@ class LabelingApp:
     #         else:
     #             self.canvas.create_text(400, 300, text="No images found in the selected folder.", fill="white")
 
-    def drag_label(self, event):
-        """Handle dragging of a label to reposition it."""
-        if self.dragging_point is None:
-            # Check if we're near a point to start dragging
-            for index, (original_x, original_y, text) in enumerate(self.labels):
-                x = original_x * self.scale_factor
-                y = original_y * self.scale_factor
-                if (x - 5 <= event.x <= x + 5) and (y - 5 <= event.y <= y + 5):
-                    self.dragging_point = index
-                    break
-        if self.dragging_point is not None:
-            # Update the position of the point being dragged
-            scaled_x = event.x / self.scale_factor
-            scaled_y = event.y / self.scale_factor
-            self.labels[self.dragging_point] = (scaled_x, scaled_y, self.labels[self.dragging_point][2])
-            self.redraw_labels()
+    # def drag_label(self, event):
+    #     """Handle dragging of a label to reposition it."""
+    #     if self.dragging_point is None:
+    #         # Check if we're near a point to start dragging
+    #         for index, (original_x, original_y, text) in enumerate(self.labels):
+    #             x = original_x * self.scale_factor
+    #             y = original_y * self.scale_factor
+    #             if (x - 5 <= event.x <= x + 5) and (y - 5 <= event.y <= y + 5):
+    #                 self.dragging_point = index
+    #                 break
+    #     if self.dragging_point is not None:
+    #         # Update the position of the point being dragged
+    #         scaled_x = event.x / self.scale_factor
+    #         scaled_y = event.y / self.scale_factor
+    #         self.labels[self.dragging_point] = (scaled_x, scaled_y, self.labels[self.dragging_point][2])
+    #         self.redraw_labels()
 
     def stop_drag_label(self, event):
         """Stop dragging the label."""
