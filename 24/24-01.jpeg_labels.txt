@@ -1,0 +1,10 @@
+91,17,Sun
+81,179,AH 24\nSidar (City)
+263,206,Sigh\, "The Sun"... has been written to death. Why would they ask me to do the Sun...\n
+468,203,Ah\, your light lit up my soul\, letting me... letting me...\n
+108,368,Ah\, you are the unique presence in the universe\, endless source of light...\n
+256,351,Ugh... I am nauseous. Laxos probably wouldn't even bother reading it...\n
+444,359,So hard to be a poet... exhausted!\n
+331,525,Sun... sun...\n
+388,526,The Sun is a furry monster!\n
+480,727,That's rude to the Sun! Why furry?\n
