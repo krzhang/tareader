@@ -1,0 +1,15 @@
+109,89,This woman... she's a monster! Before she was just eccentric\, but she's totally a monster now!\n
+243,91,Fuck\, why am I asking her?\n
+329,31,Where do you think I should go?\n
+450,47,For people like you who have no sense of position in society nor ideas\, going to Sidar as a mercenary is best. I can give you a ride\, and throw you down once we get there.\n
+210,199,I can't believe I accepted. How embarassing... but this balloon shit is quite good. The gnomes are bad at magic\, but surprisingly skilled at their tech.\n
+427,225,Feels so nice to fly\, with the world under your feet\, as if you're a god...\n
+202,369,Sometimes I'm really impressed with Syd. In the whole school only she learned Mathematese. Even Parker only knows a little bit\, but she was able to enter the gnomes' academy... still don't know what she's learning from those weird guys though...\n
+432,344,... and now she has enough pull to help design the Gnome's new city! This is much cooler than being some wizard working for royalty.\n
+77,516,We hire Sidar mercs too. Below is Sidar\, see you later!\n
+108,607,Hmmph.\n
+306,552,Syd... Professor Syd! Something isn't right!\n
+382,541,Your friend is going down\, but... vertically! He's just going straight down!\n
+19,688,Don't worry\, captain. He's a very strong wizard. The skies are nothing to him.... wait!\n
+341,690,What if... he hasn't learned how to fly yet...\n
+383,676,This prideful idiot!
