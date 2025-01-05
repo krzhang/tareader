@@ -1,0 +1,10 @@
+481,24,AH 60\nOld Rainbow City Upper City\nSilver Cup Trade Association\n
+496,76,"Luke! You... you're back? I was trying to find you! Your mom..."\n"Don't worry\, Dad. If she sees you like this\, she'll worry!"\n"She's in the old room upstairs!"\n"I'm going..."\n
+92,454,It's alright\, son. They bothered me for a whole day!\n
+332,473,I... I'm all good. We are no longer in exile!\n
+580,490,My health is good\, have a girl I love\, but haven't told her... and...\n
+149,672,I love you\, mother...\n
+352,686,Can you get Toro for me? The damned doctor put him downstairs!\n
+612,665,Going...\n
+154,881,Thanks\,\n son\, let me be alone for a while...
+652,828,The story is about to end...\n

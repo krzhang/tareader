@@ -1,0 +1,14 @@
+159,46,AH 21\n
+404,42,Why didn't you drink that wine?\n
+623,37,He's the most generous regular here!\n
+173,270,You want our store to close? You want to be a beggar?\n
+417,266,The Palace won't even hire you as a maid!\n
+669,251,The Weavers think your needlework is... irregular!\n
+205,492,You're so old now\, what can you do?\n
+433,470,If you were prettier\, you might have some marriage potential...\n
+632,458,Let me tell you\, stay far from that crippled kid\, Haid or whatever!\n
+188,652,In a few days\, that Marquiss might come and stay...\n
+424,668,When that happens\, make sure you put on makeup...\n
+669,645,I'm so useless\, Toro. I can't do anything...\n
+106,897,I don't want to be a burden... but I don't just want to be someone's mistress...\n
+568,858,I know a "big failure"...\n

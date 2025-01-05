@@ -1,0 +1,11 @@
+234,27,AH 53\nOld Rainbow City Upper City\nSilver Cup Trade Association\n
+51,69,"Siri\, still no news for Luke? They left Rainbow City for too long!"\n"No\, but he grew up already\, he can take care of himself!"\n"For him to be a Wizard\, it's my fault! Sorry..."\n"Sleep Haid\, he's doing what he wants."\n
+574,99,Actually I know where Luke is. He came back after leaving Rainbow City to tell me... but I feel I shouldn't tell Haid.\n
+118,441,Many people are looking for them...\n
+338,455,Actually\, I envy that kid. My parents never supported me... if they did...\n
+102,671,Maybe I'd already be an excellent weaver!\n
+343,703,Right Toro\, I saw the gnomes you talked about today!\n
+540,676,I thought it was just a story\, but...\n
+99,906,They ate some bread\, and brought a cartful of machines into the city...\n
+354,888,They're like a bunch of kids who would never grow old\, jumping around...\n
+538,918,You should know that Gnomes are basically kids\, until death...\n

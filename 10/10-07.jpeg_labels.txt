@@ -1,0 +1,11 @@
+186,61,Tarsylia\, Third Age\, AH 33\nOld Raninbow City city center\nSilver Cup Inn\n
+585,90,Siri\, just take care of the hotel. I'm enough for the medicine shop... there are more and more wizards now...\n
+145,467,Really? So you can fool around with those women from the Trade Associations?\n
+395,471,This is just normal trade stuff\, what are you thinking...\n
+615,478,Normal? Do you think I'm blind?\n
+180,668,I don't have time for this... I'm busy tonight...\n
+361,696,Women... can't become old! Look at me! I smell like smoke and alcohol... so... rough...\n
+559,672,I don't actually know if those things I said were real\, but I have no confidence...\n
+121,909,I think I'm no longer the little girl Haid loves... maybe I should learn to dress up\, get prettier...\n
+348,896,Maybe I should learn to be more like a wealthy woman\, and Haid can bring me out to his socials...\n
+582,871,I heard a story about someone who really knows how to change himself...\n

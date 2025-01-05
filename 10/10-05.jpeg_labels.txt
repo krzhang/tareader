@@ -1,0 +1,15 @@
+185,35,AH 27
+323,39,Dear\, we should put everything into the box tonight.\n
+661,35,I know. You should sleep early. I want to take one more look at this house.\n
+217,257,Did you know\, Toro? Haid was able to sell those bugs...\n
+399,262,Some wizard guy wanted to buy it\, and for 700 gold coins too!\n
+678,322,I didn't believe it. It was the first time Mom smiled at Haid...\n
+195,505,The wizard said he was making some new city\, and he'll come by periodically to buy bugs and grass...\n
+434,466,It's like a dream... our small shop can sustain itself!\n
+646,453,We're moving into the city tomorrow\, into our new hotel...\n
+194,688,So lucky that that year we had a big fire burn down the Marquis's castle\, or...\n
+403,708,Hehe\, maybe I'll be able to wear dresses from now on\, have butlers and maids...\n
+645,661,Silver cutleries\, silk bedsheets...\n
+179,902,I can change you too! I'm so happy...\n
+409,909,It's like a dream...\n
+626,918,I happen to \nhave a story about happiness...

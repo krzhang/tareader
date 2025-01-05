@@ -1,0 +1,11 @@
+123,67,Fable\n
+522,66,Tarsylia\, Third Age\nAH 15\nOld Rainbow Kingdom outskirts\nDwei (town)\n
+278,293,You hear the weird sounds from Siri's room? It sounds like she's talking to someone\, but every time I go inside I only see her. She said she's talking with her doll..."\n\n"It's fine. She's 13. Everyone's dying outside and we have no business... just leave me alone..."\n\n"We should be more watchful for her..."\n\n"Shut up! We work all the time so she can eat\, right? Did you hide the box well? I don't want the soldiers to find it..."\n
+202,458,Toro? How long will they fight this war?\n
+431,472,Mom won't let me leave\, saying there's a bunch of soldiers\, not safe...\n
+667,442,Haid's brother told me\, Haid was drafted by the army...\n
+177,664,I'm going crazy! I hear every day up to a thousand people are dying...\n
+435,677,God\, please bless Haid...\n
+665,657,Oh yeah\, Dad and Mom are really weird\, trying to hide something in the cellars...\n
+91,891,They think I don't know! Hmmph\, let's go to the cellar at night\, Toro...\n
+665,864,I know a story about curiosity...\n
