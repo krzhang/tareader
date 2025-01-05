@@ -53,6 +53,8 @@ class LabelingApp:
             self.save_button = tk.Button(button_frame, text="Save Labels", command=self.save_labels)
             self.save_button.grid(row=0, column=4, padx=5)   
             self.canvas.bind("<ButtonPress-1>", self.add_label)
+            # TODO: get a real mouse. Might be a trackpad vs mouse issue
+            self.canvas.bind("<ButtonRelease-1>", lambda e: print("Mouse button released"))
             self.canvas.bind("<a>", self.simulate_click)
             self.canvas.bind("<d>", self.debug_info)
             self.canvas.bind("<r>", self.refresh_state)
@@ -76,7 +78,15 @@ class LabelingApp:
         self.draw_image()
 
     def debug_info(self, event=None):
-        print(f"Focus is currently on: {self.canvas.focus_get()}") 
+        print(f"Focus is currently on: {self.canvas.focus_get()}")
+        x = self.canvas.winfo_pointerx() - self.canvas.winfo_rootx()
+        y = self.canvas.winfo_pointery() - self.canvas.winfo_rooty()
+        print(f"Closest: {self.canvas.find_closest(x, y)}")
+        # print(self.canvas.find_all())
+        for item_id in self.canvas.find_all():
+            item_type = self.canvas.type(item_id)  # Get the type of the canvas item
+            item_coords = self.canvas.coords(item_id)  # Get the coordinates of the item
+            print(f"Item ID: {item_id}, Type: {item_type}, Coords: {item_coords}")
         
     def simulate_click(self, event=None):
         # Get mouse coordinates relative to the canvas
@@ -286,8 +296,8 @@ class LabelingApp:
         
         # Wait for the dialog to close
         self.root.wait_window(dialog)
-
         self.canvas.focus_set()
+        self.root.after(50, lambda: print(f"Focus after 50ms: {self.root.focus_get()}"))
         print(f"Focus after dialog: {self.root.focus_get()}")
         self.root.update_idletasks()
         self.root.update()
