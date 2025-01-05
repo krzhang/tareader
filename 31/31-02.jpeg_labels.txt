@@ -1,0 +1,10 @@
+48,20,Boring...\n
+320,41,Oh wow. All 3 Schools are here. Hehe\, today's contest sure is popular... gonna be a big one!
+87,180,<cough cough>.... attention!\n
+354,215,Elemental Clash\, Open Division\, \nfinal round is about to start. Nait (my)'s wagers still in service! I already put my baby here... if you bet on the rabid dog and the cook\, put the money in his left eye\, and if you bet on the geniuses\, put the money in his right eye\, and we'll figure it out after the game! Alright\, don't miss this chance and bet!"
+515,339,Notes: In Elemental Magic\, the wizards use magic and themselves as the interface to the Elemental Realm\, channeling the elements through the physical world\, reconfigures them\, and releases them. To apprentices\, this is difficult -- controlling the interface\, limiting the energy input\, and reconfiguring are all prone to accidents. This is why the tests are always performed in teams of 2
+92,521,The main [champion] is in charge of the attack. If the strengths of the elements are similar\, then the ability to efficiently reconfigure the energy decides the attack strength.
+291,512,For example\, using the same flames from the Fire Realm\, an inefficient apprentice would only be able to blow an unfocused heat wave.
+440,503,However\, a skilled apprentice could shape it into a sword of flame!
+113,678,During the "Safe Phase" [the first phase of hte game]\, the students usually channel a small amount of energy in order to not injure their bodies\, esp. in case of accidents. The support [second wizard] usually uses support spells to strengthen the output.
+417,675,Note: In this division\, only the top 5 teams get points\, and all 3 schools participate ["Open division"]. For fairness\, the Outer School's points are tripled and Inner School's points are doubles. Aimedahl and Parker benefited greatly from this system for the last 2 years.

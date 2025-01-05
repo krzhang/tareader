@@ -1,0 +1,10 @@
+265,45,How long do you need to sleep? Don't you want to see your new seat?\n
+500,48,Oh?\n
+477,223,No need for insults. I have no excuses this time... as a wizard... my first! Punish me as you will!\n
+150,336,Remember this\, Ceberus!\n
+262,331,In any era\, there is nothing shameful about two men using fists to resolve an issue!\n
+119,502,The first time I touched magic\, I was 19\, a mercenary for my teacher. At first\, I just wanted to learn Mirror Mirage\, for fighting.\n
+198,488,N: Mirror Mirage is a low-level protective magic. It creates a number (depending on ability) of mirages mirroring the caster. It is efficient for defense and lowering the probability of being hit.\n
+499,483,But he just wanted to be my boss\, and I only spoke Beastman...\n
+224,648,My teacher was arrogant and aloof\, with unmatchable talent. He didn't want dumb students like me and always give me tests. First\, he tried to teach me Hellspeak. Heh\, it was only a bit harder than Lionspeak... in one year I learned it\, and he was amazed!\n
+471,704,He actually said I was talented\, but I missed the best years for magic and so cannot become successful. Of course\, he taught me Mirror Shadows\, and I learned other magic myself..\n

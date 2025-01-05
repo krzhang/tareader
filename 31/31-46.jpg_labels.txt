@@ -1,0 +1,8 @@
+99,29,Maybe your teacher is wrong!\n
+415,18,Wizards from long ago would teach you a couple of spells to kill people\, and then let the students figure it out themselves. Curse is even more... he gives a contract where the students learn one or two higher-level attacking skills\, to be used as his own weapon. I wanted to change this style\, exchange some time\, have you all learn fundamentals\, find your best style...\n
+273,189,This way even the day I leave\, you can grow yourselves.\n
+506,190,But this seems to be a setback for you. Hehe... if Curse taught you\, maybe you would have become famous already!\n
+287,388,But since you're my student\, then you play by my rules. I won't admit these words in front of others! You must go to all the exams\, take all the punishments! Endure other people's jeers. I will scold you too\, whenever you fail.\n\nThis is an agreement among men\, among us.\n
+472,335,I'll only say it once.\n
+287,649,Bye\, dumbass!\n
+497,702,Teacher went to Ceberus. I don't know what he said\, but it was effective... from that day on\, Ceberus became colder to me...\n

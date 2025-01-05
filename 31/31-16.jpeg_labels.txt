@@ -1,0 +1,12 @@
+82,8,ROAR!\n
+130,207,How... what the...\n
+265,228,Whoa... wow... thank god not in our half of the bracket! How the hell did this crazy bitch do it?\n
+429,211,Ceberus... awesome!\n
+134,376,Hehe... hahaha... black... black horse! A real fucking black horse!! Hehehe\n
+280,352,What the... why is it so quiet?\n
+215,404,Hold me...\n
+431,398,That's a wolf? Aren't you supposed to make a weapon? Does this count?\n
+104,559,Elemental Beasts... a long time ago\, during the age when Elementalism was everywhere... every wizard could do this!\n
+264,550,It's like a weapon\, I guess? And next we have to see if they have better control over their weapons?\n
+479,544,I calculated there to be a shift in amount of energy; I did not forsee the paradigm shift. This level of control under his crazed state... how? It's illogical!\n
+75,655,Mein\, no need to compare. It's already hard to make a weapon you can control. However\, Elemental beasts can do whatever the beasts do. As long as they are commanded\, they can attack by themselves\, ... unlike the controller of an elemental weapon\, who would need to focus on the weapon. In this sense\, beasts are much easier to control than weapons.\n

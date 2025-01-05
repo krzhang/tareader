@@ -1,0 +1,18 @@
+49,101,16 months ago\n
+30,29,You are wagging your tail? Do you know why this steak is so good?\n
+262,15,If you see those goblins again\, bite them!\n
+434,45,Ceberus\, stop feeding him... he's getting fat. Also\, Teacher said we can't eat your steaks anymore\, because he's eating them!\n
+63,211,I hear the Beastmen like you... good luck...\n
+104,231,Wish you a good hunt! [Ed: beastmen greeting]\n
+223,262,But how much longer am I to do this easy stuff?\n
+523,271,15 months ago\n
+452,245,How are you different from the goblins if you can't cook to my tastes? Give me a 50% cooked meat tonight!\n
+108,352,Tonight\, 70%!\n
+285,352,90%! Enough to file my teeth!\n
+452,353,I want blood. 20%!\n
+60,537,If you dare to show me any blood tonight...\n
+277,515,One side 80%\, one side 30%!\n
+454,517,Blood in the middle. Chewy outside.\n
+65,693,The tendons must keep their suppleness. The juices must be rich.\n
+280,686,Take the marination and get the flavor to the inside without leaving it on the outside!\n
+457,682,Sear the outside\, don't let the meaty taste escape!\n

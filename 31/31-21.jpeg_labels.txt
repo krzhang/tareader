@@ -1,0 +1,11 @@
+75,91,9 months ago\n
+101,35,Teacher...\n
+269,7,What's this?\n
+518,63,This is... Ceberus's dinner for you. He said... in this pig every little piece satisfies one of your orders for him...\n
+71,229,... what else did he say?\n
+256,234,He said he isn't coming into the kitchen anymore. Don't worry! I can go talk to him!\n
+437,241,Let him go... but\, how did he cook this\, Yaga?\n
+230,373,He rubbed it with his hands for a little bit.\n
+477,404,Tell him that\, as thanks\, I'll eat it in one day!\n
+495,416,<Exhales>\n
+56,487,Exaros\, you zoning out? Look\, Parker got a... Wind Vulture? Are these really Apprentices?\n

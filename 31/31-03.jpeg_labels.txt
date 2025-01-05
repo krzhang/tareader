@@ -1,0 +1,17 @@
+77,26,Underground training room view...\n
+100,217,Rules: when the arena is sealed [for safety of the spectators]\, each team has 1 minute of "Safe phase" to channel and reconfigure their elements. After the Safe phase\, attacks are allowed. If one side's elements are clearly overpowered or surrenders\, the game stops.
+494,243,Sealing the area is the job of the wind spirit Shuu.\n
+87,139,Circular Arena\n
+397,111,Casting Area\n
+390,207,Main Champion Position\n
+386,257,Support champion Position\n
+346,16,Observer Seating\n
+69,350,Great\, another bet for the geniuses. I guess black horses are still black today!\n
+278,339,Nait\, you loudass pig... you make this place so grungy!"\n
+418,368,Boss? Gina? Who are you betting on? When we start my baby will take no more offers!\n
+78,525,Who's your boss? If you still can't get to the Upper School\, you'd have to stay in Inner and become a bitch for those annoying kids...\n
+230,538,Brother\n\, stop. He already used all his talents on those betting gadgets.
+423,530,Hehe\, right right. There's no difference being a dog for anyone! But boss... I hear the current 4 top dogs of the Upper School don't have you in it?\n
+121,652,You... \n
+227,666,Also in the last right\, when Cerberus made the fire axe\, who immediately resigned?\n
+465,649,The times have changed\, boss!"\n
