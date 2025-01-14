@@ -257,7 +257,17 @@ class LabelingApp:
         """Open a dialog to input label text."""
         dialog = tk.Toplevel(self.root)
         dialog.title("Enter Label Text")
-        dialog.geometry("300x200")  # Set dialog size
+
+        # Calculate the position relative to the root window
+        root_x = self.root.winfo_x()
+        root_y = self.root.winfo_y()
+        offset_x, offset_y = 50, 50  # Offset relative to the root window
+        dialog_x = root_x + offset_x + 520
+        dialog_y = root_y + offset_y + 320
+
+        # Set dialog size and position
+        dialog.geometry(f"300x200+{dialog_x}+{dialog_y}")
+        
         dialog.transient(self.root)  # Keep the dialog on top of the main window
         # Wait until the dialog is visible
         dialog.update_idletasks()
