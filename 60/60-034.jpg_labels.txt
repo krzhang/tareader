@@ -1,0 +1,14 @@
+274,92,Right! I was right! There's a corpse... wait\, a corpse should be rotten...\n
+45,191,Faint... can't sleep\, can't sleep!\n
+269,219,This is not a corpse? Its eyes have a layer covering it...\n
+274,274,Why are you spacing out?\n
+435,259,Your staff has a hard end. Stab it!\n
+142,369,Wha...what?\n
+255,444,He trapped us here! He is sucking our life energy\, which is why he is not rotten!\n
+391,371,Hu... hey...\n
+83,537,Stop fooling around. Syd almost got it. Huhuhu... don't do things where you don't know what would happen...\n
+222,602,How would those two know what would happen? Layer after layer\, using up everyone's energy... huhu! Destroy him!\n
+457,514,Don't listen to him! Ceberus!\n
+140,682,... believe me!\n
+290,676,Stop\, Aimedahl. You're being controlled by the Wall. Wake up!\n
+393,725,I'm not listening to any of your theories anymore!\n

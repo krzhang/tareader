@@ -1,0 +1,12 @@
+80,45,But I'm tired... we walked so long\, and I got wet...\n
+248,34,Hey\, bastard. Stop acting like it was *you* who had to carry bags for two people!\n
+442,82,Get up\, listen to Syd and check out the wall... before Ceberus activates another trap!\n
+336,177,Weird ceiling... maybe there's treasure!\n
+41,167,Got it... make a fire then. Why did the old man make us walk?\n
+446,241,These bricks move\, but each one has only a limited space of movement...\n
+77,407,It sounds like what Eiser talked about as a "Puzzle Wall"? Can you crack it?\n
+428,413,You're right (somehow). But The way to solve the Puzzle Wall requires finding some clues. \n\nHmm\, fire...\n
+358,572,Clues are obvious... but we need your help\, Ceberus\, please don't touch the walls!\n
+448,580,Please...\n
+93,709,Since you are asking nicely\, then this Master Wizard will just rest nearby!\n
+444,658,You three master wizards did not realize our door went missing?\n

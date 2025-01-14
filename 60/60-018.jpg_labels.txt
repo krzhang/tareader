@@ -1,0 +1,10 @@
+68,83,Fine\, I'll find some fabric to cover my knees... you already found the pattern\, you should be able to do it quickly?\n
+284,73,It's nothing. As Teacher says\, wizards with no physicality cannot become Master Wizards! Oh some of our food was ruined by the water...\n
+358,23,Sorry... I'm short...\n
+461,400,You really think this is Arwyn and them's trap?\n
+83,585,A few years ago some upperclassmen also got lost in the pilgrimage. Also\, the fat guy [Nait] showed up...\n
+318,589,Nait came all the way fro mthe Wizard's Tower just to fool us to get in here?\n
+406,582,No "us"\, only Parker! In Arwyn's eyes\, he is a competitor who must be destroyed!\n
+116,696,Heh\, of course! We know it's a giant\, so as long as we figure out which is the hand and which is the foot...\n
+336,692,You're so fast!\n
+462,738,Huhu... they must have a high confidence that we might die here...\n

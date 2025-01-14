@@ -1,0 +1,12 @@
+513,31,AH 11\nBeast Mines outskirt forest\nSome ancient temple\n
+111,193,Hey\, we're lucky! This might be Tesler's secret room.\n
+334,237,His cave had no bathroom.\n
+36,398,Dammit\, it's a trap. That fat guy never came!\n
+293,398,What trap? It's just a stone room...\n
+442,238,All because of our important prince! Why are you scared of a little rain?\n
+442,365,But it's really annoying being wet! Let's wait here. Please!\n
+161,538,Look at these marks!\n
+305,542,Don't touch it\, Ceberus. Parker\, the cracks are unnatural... you should take a look.\n
+424,514,I don't like moldy things!\n
+516,560,Listen to her! Go!\n
+113,734,Looks like fire?\n

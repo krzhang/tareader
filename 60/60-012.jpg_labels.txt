@@ -1,0 +1,11 @@
+256,80,Alright\, Earth is finished... though doesn't really look right? The tracks say...\n
+243,214,You're right! There's a second layer!\n
+466,221,Cover your eyes\, idiot! Don't be hypnotized!\n
+269,367,Syd\, hurry! The temperature is rising!\n
+338,343,Whoa!\n
+504,398,This picture must be a clue for the second layer!\n
+296,512,Not familiar... Aimel [Ed: seems like a dimunitive of Aimedahl]\, what do you think this is?\n
+39,647,But this is so badly drawn... what is it?\n
+192,648,Hell's Ro...\n
+285,666,Stop\, idiot!\n
+463,605,It's not hot\, but if you're too slow\, we're going to be cooked! Our biggest edge is Syd... she's been with the old Eiser guy so long... you should defer to her!\n

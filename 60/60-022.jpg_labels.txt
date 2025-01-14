@@ -1,0 +1,10 @@
+97,71,This... this is level 3? God\, would Esier be able to solve it?\n
+253,95,This is... so small! Can't even tell apart the Standard and Irregular types!\n
+486,85,We shouldn't bother separating them right? Too much work!\n
+260,228,We're gonna die... wait\, clues? That spirit? Will one come out?\n
+388,211,Coming out for what? Just to stare at the ceiling? Hu...\n
+458,388,The ground opened! Another one...\n
+32,554,Is this a monster? Elf? Look... maybe 3 pictures to each wall? The air is... muddy!\n
+330,558,Can you cast another windmill? ... It smells bad\, I agree. My head hurts...\n
+456,584,Hurry hurry\, huddle. Let me know what this damn wall wants!\n
+452,738,Calm down\, Ceberus... quieter... the ceiling is right up there\, you can look at it yourself!\n

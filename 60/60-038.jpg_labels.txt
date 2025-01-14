@@ -1,0 +1,5 @@
+514,37,ssss...\n
+87,465,Done?\n
+76,719,Why are the tracks of the 12 faces... are they a single body?\n
+258,664,Is this the solution? Is this level 4?\n
+436,715,Let me see it...\n

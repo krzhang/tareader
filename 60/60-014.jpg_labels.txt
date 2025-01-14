@@ -1,0 +1,15 @@
+150,95,It doesn't look like it wants to hurt us..\n
+323,110,Shush\, if you blow on it it will scatter. Also stop embarassing yourself with that Hell Roar shit...\n
+397,65,Pfft! Then why are you hiding behind me?\n
+57,261,It's very wispy\, but it looks like it's trying to go up!\n
+316,275,Don't you think it looks like a person? Pointing to something?\n
+457,202,It looks like every wall has 2 pictures?\n
+92,363,Yes... one left and one right. Doubly complex!\n
+274,373,The Standard tiles are smaller now\, and the Irregular tiles seem more fragmented.\n
+454,366,Same principle\, just more calculation!\n
+94,527,If I know what the picture is\, it wouldn't be hard\, but this picture...\n
+278,532,A key? Hammer? Too abstract. I think the builder made it intentionally abstract!\n
+457,532,Targetting people like me? Hmmph! The last one was the 4 elements\, but this one...\n
+100,680,Other realms? But this picture has nothing to do with other realms.\n
+273,687,Must be a connection. Think!\n
+435,720,I think the surface clues are not possible for me to use. You do it your way. I will use mine. But I don't think it's hot?\n

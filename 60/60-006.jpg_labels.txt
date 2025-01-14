@@ -1,0 +1,12 @@
+31,52,These are regular... let's call them "Standard." They move on fixed tracks...\n
+459,80,They are there to block the irregular shapes from moving to the "empty" space\, which might end up forming some picture...\n
+106,233,So\, we need to understand what the target picture is!\n
+244,260,I mentally moved all the Standard tiles... they all have a set track... I must do an optimization on these track orderings\, so I don't get a deadlock that traps any of the irregular shaps...\n
+145,425,It looks like the irregular tiles are the key\, but...\n
+240,348,Don't be sad if you can't understand her!\n
+242,428,This ground is weird?\n
+387,436,Parker\, I think every wall is a system. If we understand all the tracks\, we can derive the answer...\n
+98,503,Don't overthink it. Four walls. There's fire. Then what we have left are wind\, water\, earth.\n
+320,543,What? The elements?\n
+447,546,Look\, as you said\, there's only a few irregular ones. Looking at the fire... we should get water.\n
+437,669,As for the other two... the Wind one seems identical. You take Earth!\n
